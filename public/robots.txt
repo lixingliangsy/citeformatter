@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://citeformatter.com/sitemap.xml
